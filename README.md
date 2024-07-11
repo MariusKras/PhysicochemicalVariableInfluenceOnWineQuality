@@ -1,4 +1,4 @@
-# Modeling Wine Quality: Analyzing Variable Influences
+# Modeling Wine Quality: Analyzing Physicochemical Variable Influences
 
 ![header](header.png)
 
